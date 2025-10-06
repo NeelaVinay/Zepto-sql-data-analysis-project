@@ -1,3 +1,4 @@
+create schema zepto_project;
 use zepto_project;
 drop table if exists zepto;
 
